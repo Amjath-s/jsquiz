@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Which animal is largest in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Ostrich"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What planet is 4th in the solar system?",
+    "options": ["Earth", "Mercury", "Mars", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Leo Tolstoy"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["Asia", "Africa", "Australia", "South America"],
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent Van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Silver"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "In which country is the Great Wall located?",
+    "options": ["Japan", "India", "China", "South Korea"],
+    "answer": "China"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": ["Lion", "Cheetah", "Horse", "Gazelle"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Which language is the most spoken worldwide?",
+    "options": ["English", "Hindi", "Mandarin Chinese", "Spanish"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which organ pumps blood through the body?",
+    "options": ["Lungs", "Heart", "Kidney", "Liver"],
+    "answer": "Heart"
+  }
+]
